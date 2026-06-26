@@ -8,6 +8,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -23,6 +24,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +72,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
