@@ -112,10 +112,12 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search Tree
@@ -138,6 +140,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -158,6 +161,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
