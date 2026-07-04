@@ -13,6 +13,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
