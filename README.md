@@ -9,6 +9,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -52,6 +53,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Two Pointers
@@ -152,6 +154,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
