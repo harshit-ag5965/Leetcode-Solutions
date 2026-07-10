@@ -133,10 +133,12 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
