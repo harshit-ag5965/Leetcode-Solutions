@@ -112,6 +112,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Number Theory
