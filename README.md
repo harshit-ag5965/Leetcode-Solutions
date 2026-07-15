@@ -70,6 +70,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -125,6 +126,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
