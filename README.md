@@ -9,6 +9,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -39,6 +40,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
@@ -147,6 +149,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1609-even-odd-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -154,6 +157,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -175,6 +179,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1609-even-odd-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
