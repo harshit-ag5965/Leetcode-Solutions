@@ -153,6 +153,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -161,6 +162,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -183,6 +185,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
