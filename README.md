@@ -44,6 +44,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -74,6 +75,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -208,6 +210,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
