@@ -10,6 +10,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [1260-shift-2d-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -234,6 +235,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -266,6 +268,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
