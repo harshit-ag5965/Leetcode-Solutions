@@ -45,6 +45,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3731-find-missing-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Hash Table
@@ -63,6 +64,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3731-find-missing-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
