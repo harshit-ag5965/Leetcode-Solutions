@@ -388,4 +388,12 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
