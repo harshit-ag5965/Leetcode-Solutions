@@ -16,6 +16,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -102,6 +103,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -128,6 +130,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -170,6 +173,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -388,6 +392,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -397,8 +402,10 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
