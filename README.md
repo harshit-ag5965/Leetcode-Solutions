@@ -33,6 +33,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -160,6 +161,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -288,6 +290,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -427,4 +430,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
