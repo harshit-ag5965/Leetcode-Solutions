@@ -21,6 +21,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
@@ -69,6 +70,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -233,6 +235,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
@@ -374,6 +377,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
