@@ -120,6 +120,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1510-stone-game-iv](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -238,6 +239,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -299,6 +301,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
+| [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -421,6 +424,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
