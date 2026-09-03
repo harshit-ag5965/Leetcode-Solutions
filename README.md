@@ -64,6 +64,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3908-valid-digit-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3908-valid-digit-number/) | Easy |
 ## Dynamic Programming
