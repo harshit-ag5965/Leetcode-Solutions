@@ -13,6 +13,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
@@ -384,6 +385,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
