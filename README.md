@@ -131,6 +131,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0069-sqrtx](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
@@ -513,4 +514,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
