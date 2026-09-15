@@ -77,6 +77,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0242-valid-anagram](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -103,6 +104,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -338,6 +340,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0115-distinct-subsequences](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [0242-valid-anagram](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
