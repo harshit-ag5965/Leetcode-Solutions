@@ -85,6 +85,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -112,6 +113,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -283,6 +285,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -355,6 +358,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
