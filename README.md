@@ -305,6 +305,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -316,6 +317,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -344,6 +346,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1110-delete-nodes-and-return-forest/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -548,4 +551,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
