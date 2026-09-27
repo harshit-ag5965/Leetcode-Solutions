@@ -380,6 +380,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0940-distinct-subsequences-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -494,6 +495,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,4 +576,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
