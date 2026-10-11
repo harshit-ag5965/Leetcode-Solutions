@@ -9,6 +9,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0001-two-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
@@ -193,6 +194,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
@@ -310,6 +312,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
