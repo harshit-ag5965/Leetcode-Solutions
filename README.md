@@ -383,6 +383,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
