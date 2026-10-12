@@ -11,6 +11,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0035-search-insert-position](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -320,6 +321,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
