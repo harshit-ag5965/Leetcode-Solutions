@@ -17,6 +17,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0835-image-overlap](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
@@ -128,6 +129,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0242-valid-anagram](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -204,6 +206,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0115-distinct-subsequences](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
@@ -324,6 +327,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0135-candy](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -643,4 +647,8 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
