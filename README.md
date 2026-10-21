@@ -475,6 +475,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3798-largest-even-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3798-largest-even-number/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
