@@ -92,6 +92,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3895-count-digit-appearances](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
