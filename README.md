@@ -79,6 +79,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -560,6 +561,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
