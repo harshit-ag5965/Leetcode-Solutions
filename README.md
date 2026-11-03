@@ -89,6 +89,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -216,6 +217,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
