@@ -30,6 +30,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1436-destination-city](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -156,6 +157,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1096-brace-expansion-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -268,6 +270,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -351,6 +354,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0035-search-insert-position](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
