@@ -55,6 +55,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -123,6 +124,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -167,6 +169,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -520,6 +523,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
