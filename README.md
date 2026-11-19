@@ -58,6 +58,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -175,6 +176,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
@@ -408,6 +410,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [2029-stone-game-ix](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/2706-buy-two-chocolates/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
