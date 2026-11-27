@@ -14,6 +14,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0135-candy](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -268,6 +269,7 @@ Here, I shared the solutions to LeetCode problems that I solve daily.
 | [0055-jump-game](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshit-ag5965/Leetcode-Solutions/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
